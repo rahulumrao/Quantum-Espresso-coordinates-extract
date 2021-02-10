@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#extract all coordinates from Quantum Espresso output file
+# extract all coordinates from Quantum Espresso output file
 # and write in a file as a catresian trajectory
 #
 # python QE-extract-xyz.py outfilename
